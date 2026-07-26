@@ -1,0 +1,14 @@
+backend/.venv/
+backend/.env
+backend/*.db
+backend/__pycache__/
+backend/.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/.open-next/
+frontend/.env
+mobile/node_modules/
+mobile/.expo/
+*.py[cod]
+.DS_Store
